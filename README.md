@@ -5,7 +5,7 @@ CodePath Prework
 Screen displays "Hello" to user.  User can choose to change the text color to purple (by clicking the "Change Text Color" button), change the screen background to orange (by clicking the "Change View Color" button), or change the text (by typing in the text field and clicking "Change Text").  Screen resets after user clicks on view outside buttons.
 
 ### App Walk-though
-<img src="https://imgur.com/a/UM9JLIR.gif" width=200><br>
+<img src="http://recordit.co/JjcodSPHmz.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
